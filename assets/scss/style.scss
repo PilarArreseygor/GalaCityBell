@@ -1,0 +1,19 @@
+@import "variables";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+    @mixin sizes {$width; $heigth)
+        width: $width;
+        height: $heigth;
+    }
+
+    .linearosa{
+        background-color: ;
+        @include sizes(100%,20px)
+        
+    }

@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.rosa{
+  background-color: pink;
+  width: 100%;
+  height: 15px;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+  font-family: font-family: 'Montserrat', sans-serif;
+  
+
+}
+
+
+/* PAGINA CONTACTO */
+.fondo__contacto {
+  background-color: pink;
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form {
+  width: 450px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contacto__title {
+  color: white;
+  text-align: center;
+  margin: 0%;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.input-textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
